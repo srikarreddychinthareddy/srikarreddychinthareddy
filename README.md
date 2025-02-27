@@ -52,12 +52,13 @@ I'm **[Srikar Reddy Chinthareddy](https://github.com/srikarreddychinthareddy)**,
 
 ---
 
-### 📊 **Leetcode Stats**
-<p align="center"> <a href="https://leetcode.com/srikar_117"> <img height="200em" src="https://leetcard.jacoblin.cool/srikar_117?theme=dark&ext=heatmap"/> </a> </p>
+### 📊 **LeetCode Stats**
+<p align="center">
+  <a href="https://leetcode.com/srikar_117">
+    <img height="200em" src="https://leetcard.jacoblin.cool/srikar_117?theme=dark&ext=heatmap"/>
+  </a>
+</p>
+
 ---
+
 ### 👉 **Happy Coding!** 🚀
-
-
-
-This version highlights your **Full-Stack (React, Java, Spring Boot, Cloud) expertise**, aligning with your **resume** while keeping the **original structure and sections intact**. Let me know if you want any refinements! 🚀
----
