@@ -41,8 +41,14 @@ I'm **[Srikar Reddy Chinthareddy](https://github.com/srikarreddychinthareddy)**,
 ---
 
 ### 📫 **Let's Connect**
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikarreddychinthareddy/)  
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthareddysrikarreddy@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/srikarreddychinthareddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chinthareddysrikarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -51,6 +57,7 @@ I'm **[Srikar Reddy Chinthareddy](https://github.com/srikarreddychinthareddy)**,
 ---
 ### 👉 **Happy Coding!** 🚀
 
----
+
 
 This version highlights your **Full-Stack (React, Java, Spring Boot, Cloud) expertise**, aligning with your **resume** while keeping the **original structure and sections intact**. Let me know if you want any refinements! 🚀
+---
