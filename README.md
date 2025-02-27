@@ -55,6 +55,7 @@ I'm **[Srikar Reddy Chinthareddy](https://github.com/srikarreddychinthareddy)**,
 </p>
 
 ---
+<p align="center"> <a href="https://leetcode.com/srikar_117"> <img height="200em" src="https://leetcard.jacoblin.cool/srikar_117?theme=dark&ext=heatmap"/> </a> </p>
 
 ### 👉 **Happy Coding!** 🚀
 
