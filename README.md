@@ -1,7 +1,3 @@
-Here's your **GitHub README** tailored to your **Full-Stack Development** background, focusing on **JavaScript, React, Java, Spring Boot, and Cloud Services** while keeping the original structure intact.
-
----
-
 ## **Hi there 👋, I'm Srikar**
 
 <img align="right" alt="Full-Stack Dev GIF" height=250 width=400 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/></img>
